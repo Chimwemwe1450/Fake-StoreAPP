@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MQvdzqWnwZ+ZY5dP+oxNhrJ1yVf2qw1DnpKO2fLFVJ4=",
+  "Source": "UserOrderApi",
+  "BasePath": "_content/UserOrderApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
